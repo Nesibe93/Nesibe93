@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋🏻 Hi I'am Nesibe.<br>💻 I currently learning software.
 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nesibe-k-69a830262/) 
