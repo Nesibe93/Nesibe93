@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi I'am Nesibe.<br>💻 I currently learning software.
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="18" height="18"/> Hi I'am Nesibe.<br>💻 I currently learning software.
 
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
